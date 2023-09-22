@@ -9,5 +9,8 @@
   },
   "keywords": [],
   "author": "M A Rivano",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.3.2"
+  }
 }
