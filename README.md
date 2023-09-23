@@ -7,9 +7,9 @@ Proyecto 3 para el bootcamp UDD DWFS en el que se debe desarrollar un dashboard 
 ##### Headline H5
 ###### Headline H6
 ## Contenido
-1. [General Info](#general-info)
-2. [Technologies](#technologies)
-3. [Installation](#installation)
+1. [Información General](#general-info)
+2. [Tecnologías](#technologies)
+3. [Instalación](#installation)
 4. [Collaboration](#collaboration)
 5. [FAQs](#faqs)
 ### Información General
